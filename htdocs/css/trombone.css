@@ -1,0 +1,350 @@
+/* Common CSS */
+/* Die font-size von 62,5% ermöglicht einfaches Berechnen
+   einzelner Größen und Abstände. Aussgehend von der Standard
+   Render-Schriftgröße von 16px (in allen Browsern) entspricht
+   bei dieser Skalierung 1rem damit genau 10px.
+*/
+@charset "UTF-8";
+
+body,
+html {
+    margin: 0;
+    padding: 0;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 62.5%;
+    height: 5000px;
+}
+
+/* ------------------------------------------------------------------------- */
+/* Querbalken am oberen Rand mit Farbverlauf 
+   Die Höhe des Streifens ändert sich mit der Auflösung der Anzeige.
+   Für Tablets und Smartphones wird der Streifen schmaler.
+   Die Höhe ändert sich innerhalb der "transition" Zeitangabe.
+*/
+
+#topBar {
+    background-image: linear-gradient(to right, #713376, #8c0d12);
+    width: 100%;
+    position: absolute;
+    top: 0;
+    height: 8rem;
+    transition: all 500ms;
+}
+
+/* ------------------------------------------------------------------------- */
+/* Der Header passt seine Größe für die Auflösung eines PC (breiter 
+   als 1024px), eines Tablets (zwischen 855px und 1024px breit) oder 
+   Smartphones (schmaler 855px) an.
+*/
+header {
+    background: #e2e2e2;
+    width: 100%;
+    text-align: center;
+}
+
+#headerContainer {
+    height: 36.3rem;
+    transition: all 500ms;
+}
+
+/* ------------------------------------------------------------------------- */
+/* Das große Bild passt seine Größe für die Auflösung eines PC (breiter 
+   als 1024px), eines Tablets (zwischen 855px und 1024px breit) oder 
+   Smartphones (schmaler 855px) an.
+   Es ist Teil des Headers.
+   Gleiches gilt für das Logo oben links neben dem großen Bild.
+*/
+#headerImageContainer {
+    position: relative;
+    padding-top: 2rem;
+}
+
+#headerImage {
+    width: 85rem;
+    z-index: 0;
+    transition: all 600ms;
+}
+
+/* ---------- Logo links oben ---------- */
+#headerLogo {
+    height: 10rem;
+    vertical-align: top;
+    position: absolute;
+    z-index: 1;
+}
+
+/* ------------------------------------------------------------------------- */
+/* Titelzeile und Menü - fixiert beim Scrollen 
+   Das Scrollen des Headers ist bis zum Erreichen der Oberkannte des 
+   Seitentitels möglich, danach eingefroren, damit das Menü und der
+   Seitentitel sichtbar bleiben. 
+   Der fixed Container enthält weitere Container für die Titelleiste
+   und das Navigationsmenü.
+*/
+#fixedContainer {
+    text-align: center;
+    margin: 0 auto;
+    width: 100%;
+    background: #e2e2e2;
+}
+
+/* ------------------------------------------------------------------------- */
+/* Die Titelzeile 
+   ist für Smartphones nicht sichtbar.
+   (Dort ist der Titel in der Navigation enthalten)
+*/
+.titleContainer {
+    background-image: linear-gradient(to right, #713376, #8c0d12);
+    margin: inherit;
+    font-weight: 400;
+    color: #ffffff;
+    padding-top: 0.4rem;
+    transition: all 500ms;
+}
+
+#titleContainer {
+    width: 85rem;
+    height: 4rem;
+    font-size: 2.75rem;
+    transition: all 500ms;
+}
+
+/* --------------- Navigation ---------------------------------------------- */
+#navigationContainer {
+    text-align: center;
+    margin: 0 auto;
+    width: 100%;
+    background: #e2e2e2;
+}
+
+/* ------------------------------------------------------------------------- */
+/* Home Button */
+#homeLink {
+    display: inline-block;
+    padding: 0.35rem;
+}
+
+#homeLinkImage {
+    width: 3.5rem;
+}
+
+/* ---------------- Desktop und Tablet Navigation --------------- */
+/* Die Navigation passt ihre Größe für die Auflösung eines PC (breiter 
+   als 1024px) oder Tablets (zwischen 855px und 1024px breit) an.
+   Sie ist für Smartphones nicht sichtbar.
+*/
+.desktopNavigation {
+    display: inline-block;
+    margin-top: 0.2rem;
+}
+
+.desktopNavigation ul {
+    margin: 0;
+    padding: 0;
+    transition: all 500ms;
+    display: inline-block;
+}
+
+.desktopNavigation ul li {
+    margin: 0.1rem;
+    padding: 0;
+    float: left;
+    list-style: none;
+    position: relative;
+    transition: all 500ms;
+}
+
+.desktopNavigation ul li a {
+    display: inline-block;
+    margin: 0 2px 0 0;
+    padding: 1.2rem 1rem;
+    min-width: 9rem;
+    text-align: center;
+    font-size: 1.9rem;
+    color: #713376 !important;
+    text-decoration: none;
+    font-weight: 400;
+    background-color: #ffffff;
+    transition: all 500ms;
+}
+
+.desktopNavigation ul li a:hover {
+    background-color: #8c0d12;
+    color: #ffffff !important;
+}
+
+.desktopNavigation ul li a:active {
+    background-color: #ffffff;
+    color: #8c0d12 !important;
+    transform: scale(0.9);
+}
+
+/* --------------------------  Mobile Navigation --------------------------------- */
+/* Die mobile Navigation ist nur für Smartphones 
+   (Auflösung schmaler 855px) sichtbar. 
+*/
+.mobileNavigation {
+    background-image: linear-gradient(to right, #713376, #8c0d12);
+    margin: inherit;
+    width: 34rem;
+    height: 4.5rem;
+    font-size: 1.6rem;
+    display: none;
+    margin-top: 0.1rem;
+    transition: all 500ms;
+    max-height: 300px;
+    font-weight: 400;
+    color: #ffffff;
+    padding-top: 0.4rem;
+}
+
+/* Hamburger und Close als versteckte Checkboxen */
+#hamburgerContainer {
+    float: left;
+    padding: 0.5rem 0.5rem;
+}
+
+#mobileNavigationTitle {
+        padding: 0.5rem 2.5rem;
+}
+
+
+
+.mobileNavigation ul {
+    width: 33rem;
+    margin: 0;
+    padding: 0.5em 0 0.5em 0;
+    transition: all 500ms;
+    display: inline-block;
+}
+
+.mobileNavigation ul li {
+    margin: 0.1rem;
+    padding: 0;
+    background-color: #ffffff;
+    list-style: none;
+    position: relative;
+    transition: all 500ms;
+}
+
+.mobileNavigation ul li:hover {
+    background-color: #8c0d12;
+}
+
+.mobileNavigation ul li:hover a {
+    color: #ffffff;
+}
+
+.mobileNavigation ul li a {
+    display: inline-block;
+    margin: 0 2px 0 0;
+    padding: 0.25rem;
+    text-align: center;
+    font-size: 3.45rem;
+    color: #713376;
+    text-decoration: none;
+    transition: all 500ms;
+}
+
+.mobileNavigation ul li:active {
+    background-color: #ffffff;
+    transform: scale(0.9);
+}
+
+.mobileNavigation ul li:active a {
+    color: #8c0d12;
+    font-weight: 500;
+}
+
+/* Menüeinträge sind versteckt */
+#mobileNavigationContent {
+   
+    transition: all 500ms;
+   
+}
+
+
+/* ------------------------------------------------------------------------- */
+/* MEDIA: Änderungen, abhängig von der gewählten Darstellung.
+          (PC (default), Tablet oder Smartphone)
+*/
+/* Änderungen für Tablets */
+@media screen and (max-width: 1024px) {
+    #topBar {
+        height: 6rem;
+        transition: all 500ms;
+    }
+
+    #headerContainer {
+        height: 29.5rem;
+        transition: all 500ms;
+    }
+
+    #headerImage {
+        width: 68rem;
+        transition: all 500ms;
+    }
+
+    #headerLogo {
+        height: 7.5rem;
+        transition: all 500ms;
+    }
+
+    #titleContainer {
+        font-size: 2.2rem;
+        width: 68rem;
+        height: 3rem;
+        transition: all 500ms;
+    }
+
+    .desktopNavigation ul li a {
+        min-width: 4.5rem;
+        font-size: 1.65rem;
+    }
+
+
+
+
+}
+
+/* Änderungen für Smartphones */
+@media screen and (max-width: 855px) {
+    #topBar {
+        height: 4rem;
+        transition: all 500ms;
+    }
+
+    #headerContainer {
+        height: 15.7rem;
+        transition: all 500ms;
+    }
+
+    #headerImage {
+        width: 34rem;
+        transition: all 500ms;
+    }
+
+    #headerLogo {
+        height: 4.3rem;
+        transition: all 500ms;
+    }
+
+    #titleContainer {
+        display: none;
+        transition: all 500ms;
+    }
+
+    #desktopNavigation {
+        display: none;
+        transition: all 500ms;
+    }
+
+    .mobileNavigation {
+        display: inline-block;
+        transition: all 500ms;
+    }
+
+
+
+
+}

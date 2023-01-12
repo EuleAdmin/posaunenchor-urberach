@@ -1,0 +1,10 @@
+version: '3.6'
+
+services:
+  www:
+    container_name: posaunenchor_dev
+    image: apache_php8_dev:php-8.1
+    volumes:
+    - "~/Development/workspace/webprojects/posaunenchor-urberach/htdocs:/var/www/html"
+    ports:
+    - 80:80
