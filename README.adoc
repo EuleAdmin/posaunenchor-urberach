@@ -1,7 +1,4 @@
 # posaunenchor-urberach
 Webseite des Posaunenchor Urberach
 
-git clone git@github.com:EuleAdmin/posaunenchor-urberach.git
 
-docker-compose -f docker-posaunenchor-compose.yml up -d
-docker-compose -f docker-posaunenchor-compose.yml down
