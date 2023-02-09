@@ -15,7 +15,7 @@
             <span class="icon-bar"></span>
             <span class="icon-bar"></span>
           </button>
-          <a class="navbar-brand" href="<%if (content.rootpath) {%>${content.rootpath}<% } else { %>index.html<% }%>">Posaunenchor-Urberach</a>
+          <a class="navbar-brand" id="mainTitle" href="<%if (content.rootpath) {%>${content.rootpath}<% } else { %>index.html<% }%>">Posaunenchor-Urberach</a>
           <p><a id="subTitle" href="<%if (content.rootpath) {%>${content.rootpath}<% } else { %>index.html<% }%>">Ev. Petrusgemeinde Urberach</a></p>
         </div>
         <div class="navbar-collapse collapse">
