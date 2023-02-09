@@ -1,0 +1,41 @@
+= Ausbildung
+Michael Hitzel
+2023-02-01
+:jbake-type: page
+:jbake-status: published
+:jbake-tags: page, asciidoc
+:idprefix:
+
+
+image::/img/pcu-logo.svg[Logo]
+
+== Jungbläserausbildung beim Posaunenchor Urberach
+
+Der Evangelische Posaunenchor Urberach bietet auch für Anfängerinnen und Anfänger die Möglichkeit, ein Blechblasinstrument zu erlernen. 
+Kinder ab etwa 8 Jahren können hier ein Blechblasinstrument erlernen und Stück für Stück in den Posaunenchor hineinwachsen.
+
+Die neue Ausbildung erfolgt in halbstündigen Einheiten mit Einzelunterricht, die *_Montags Nachmittags zwischen ca. 14 und 18 Uhr_* hintereinander durchgeführt werden. Nach den Einzelstunden kommen alle Teilnehmer noch einmal eine Stunde zum Ensemblespiel zusammen und üben in der Gruppe.
+
+Ausgebildet wird auf den Instrumenten Trompete, Horn, Posaune, Tenorhorn und Tuba. Die Instrumente, Noten und Notenständer stellt der evangelische Posaunenchor Urberach bei Bedarf gegen eine geringe Leihgebühr zur Verfügung. Für die Unkosten für Materialien und den Unterricht wird 
+ein monatlicher Betrag erhoben.
+
+Als Ausbilder steht ein professioneller Blechbläser zur Verfügung, der den Einzelunterricht abhält. Die Gruppenstunde wird von Posaunenchorleiter Michael Hitzel geleitet.
+
+Haben wir dein Interesse geweckt? Hättest du Lust ein Blechblasinstrument zu erlernen? Dann freuen wir uns über eine eMail oder einen Anruf!
+
+
+
+*Michael Hitzel (Chorleiter)*  +
+Telefon: 06074 697715  +
+Mail: M.Hitzel@posaunenchor-urberach.de  +
+Internet: https://www.posaunenchor-urberach.de  +
+
+
+
+*Pfarrer Oliver Mattes*  +
+Telefon: 06074 910142  +
+Mail: mattes@gockel.info  +
+
+
+image::/img/training.svg[Nachwuchs, 600]
+

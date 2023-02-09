@@ -7,24 +7,40 @@ Christoph Till
 :idprefix:
 
 
-Sie befinden sich auf den Seiten des Posaunenchores der evangelischen Petrusgemeinde Urberach.
-Dies ist gemäß Paragraph 10 Absatz 3 MDStV das Impressum unserer Homepage. Sie ist aus Spaß und ohne kommerziellen Hintergrund entstanden.
-Die evangelische Petrusgemeinde in Urberach hat folgende Adresse:
-Ev. Petrusgemeinde Urberach
-Wagnerstraße 35
-63322 Rödermark
-Telefon: 06074/61133
-Wir distanzieren uns nicht von Links, die wir selber auf unseren Seiten angebracht haben. Wir betrachten diese Links als Empfehlung für unsere Besucher. Dem widersprechende <a title=\"Externer Link zu einem Wikipedia Artikel über Disclaimer\" href=\"http://de.wikipedia.org/wiki/Disclaimer\" target=\"_blank\">Disclaimer</a> machen wir uns nicht zu eigen. Es wäre schön, wenn derjenige, der unsere Seiten verlinkt, dies auch nicht tut, sondern die Verlinkung dann lieber unterlässt. Wir überprüfen die Links auf externe Seiten regelmäßig, haben aber keinen Einfluß auf die dortigen Inhalte. Sie können Links auf externe Seiten an ihrer vom Text abweichenden Farbe erkennen. Wenn Sie die Maus über einen Link auf eine externe Seite bewegen, wird dieser mit einem beschreibenden "Tooltip" gekennzeichnet. Sollten Sie etwas finden, das eine Distanzierung, Erläuterung oder Löschung notwendig macht, schreiben Sie uns bitte eine <a href=\"mailto:administrator@posaunenchor-urberach.de?subject=Posaunenchor%20-%20Impressum\">Email
-Wir freuen uns über Anregungen, Fragen oder Kritik in einer Email an <a href=\"mailto:Info@Posaunenchor-Urberach.de?
+[cols="a,a", frame=none]
+|===
 
-Info@Posaunenchor-Urberach.de
-Unseren Chorleiter können Sie direkt mit einer Email an <a href=\"mailto:M.Hitzel@Posaunenchor-Urberach.de?subject=Posaunenchor%20-%20Kontakt\">M.Hitzel@Posaunenchor-Urberach.de</a> erreichen.
+|image::/img/Posaune_Spiegelung.svg[Spiegelung Posaune, 500]  
 
-Urheberrecht
+
+|Sie befinden sich auf den Seiten des *Posaunenchores der evangelischen Petrusgemeinde Urberach*.  +
+Dies ist gemäß Paragraph 10 Absatz 3 MDStV das Impressum unserer Homepage.  +
+Sie ist aus Spaß und ohne kommerziellen Hintergrund entstanden.  +
+Die evangelische Petrusgemeinde in Urberach hat folgende Adresse:  +
+
+
+*Ev. Petrusgemeinde Urberach*  +
+Wagnerstraße 35  +
+63322 Rödermark  +
+Telefon: 06074/61133  +
+|===
+
+
+== Verweise auf externe Seiten
+
+Wir distanzieren uns nicht von Links, die wir selber auf unseren Seiten angebracht haben. Wir betrachten diese Links als Empfehlung für unsere Besucher. Dem widersprechende http://de.wikipedia.org/wiki/Disclaimer\[Disclaimer] machen wir uns nicht zu eigen. Es wäre schön, wenn derjenige, der unsere Seiten verlinkt, dies auch nicht tut, sondern die Verlinkung dann lieber unterlässt.  +
+Wir überprüfen die Links auf externe Seiten regelmäßig, haben aber keinen Einfluß auf die dortigen Inhalte. Sie können Links auf externe Seiten an ihrer vom Text abweichenden Farbe erkennen.  +
+Sollten Sie etwas finden, das eine Distanzierung, Erläuterung oder Löschung notwendig macht, schreiben Sie uns bitte eine Email an *administrator@posaunenchor-urberach.de*  +
+Wir freuen uns über Anregungen, Fragen oder Kritik in einer Email an *Info@Posaunenchor-Urberach.de*  +
+
+
+Unseren Chorleiter können Sie direkt mit einer Email an *M.Hitzel@Posaunenchor-Urberach.de* erreichen.
+
+== Urheberrecht
 Die durch uns erstellten Inhalte und Werke auf diesen Seiten unterliegen dem deutschen Urheberrecht. Die Vervielfältigung, Bearbeitung, Verbreitung und jede Art der Verwertung außerhalb der Grenzen des Urheberrechtes bedürfen der schriftlichen Zustimmung des jeweiligen Autors/Erstellers. Downloads und Kopien dieser Seite sind nur für den privaten, nicht kommerziellen Gebrauch gestattet. Soweit die Inhalte auf dieser Seite nicht vom Betreiber erstellt wurden, werden die Urheberrechte Dritter beachtet. Insbesondere werden Inhalte Dritter als solche gekennzeichnet. Sollten Sie trotzdem auf eine Urheberrechtsverletzung aufmerksam werden, bitten wir um einen entsprechenden Hinweis. Bei Bekanntwerden von Rechtsverletzungen werden wir derartige Inhalte umgehend entfernen.
 
-Datenschutz
-Die Nutzung dieser Webseite ist in der Regel ohne Angabe personenbezogener Daten möglich. Soweit auf unseren Seiten personenbezogene Daten (bsp. Name, Anschrift oder Email-Adressen) erhoben werden, erfolgt dies, soweit möglich, stets auf freiwilliger Basis. Diese Daten werden ohne ausdrückliche Zustimmung nicht an Dritte weitergegeben.
-Wir weisen darauf hin, dass die Datenübertragung im Internet (bsp. bei Kommunikation per Email) Sicherheitslücken ausweisen kann. Ein lückenloser Schutz der Daten vor dem Zugriff durch Dritte ist nicht möglich.
+== Datenschutz
+Die Nutzung dieser Webseite ist ohne Angabe personenbezogener Daten möglich.  +
+Wir weisen darauf hin, dass die Datenübertragung im Internet (bsp. bei Kommunikation per Email) Sicherheitslücken ausweisen kann. Ein lückenloser Schutz der Daten vor dem Zugriff durch Dritte ist nicht möglich.  +
 Der Nutzung von im Rahmen der Impressumspflicht veröffentlichten Daten durch Dritte zur Übersendung von nicht ausdrücklich angeforderter Werbung und Informationsmaterialien wird hiermit ausdrücklich widersprochen. Die Betreiber der Seiten behalten sich ausdrücklich rechtliche Schritte im Falle der unverlangten Zusendung von Werbeinformationen vor.
 

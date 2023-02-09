@@ -2,9 +2,7 @@
 
 	<%include "menu.gsp"%>
 
-	<div class="page-header">
-		<h1>Willkommen</h1>
-	</div>
+
 	
 	<%published_posts.each {post ->%>
 		<a href="${post.uri}"><h1>${post.title}</h1></a>

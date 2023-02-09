@@ -2,7 +2,7 @@ title=Ein zweiter Artikel
 date=2022-08-25
 type=post
 tags=blog
-status=published
+status=draft
 ~~~~~~
 
 Markdown geht auch einfach.

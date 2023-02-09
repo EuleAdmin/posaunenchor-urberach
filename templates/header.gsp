@@ -25,7 +25,7 @@
     <link href="<%if (content.rootpath) {%>${content.rootpath}<% } else { %><% }%>css/asciidoctor.css" rel="stylesheet">
     <link href="<%if (content.rootpath) {%>${content.rootpath}<% } else { %><% }%>css/base.css" rel="stylesheet">
     <link href="<%if (content.rootpath) {%>${content.rootpath}<% } else { %><% }%>css/prettify.css" rel="stylesheet">
-    <link rel="stylesheet" href="css/trombone.css" type="text/css" />
+    <link href="<%if (content.rootpath) {%>${content.rootpath}<% } else { %><% }%>css/trombone.css" rel="stylesheet">
     <link rel="shortcut icon" href="favicon.ico" type="image/x-icon; charset=binary">
     <link rel="icon" href="favicon.ico" type="image/x-icon; charset=binary">
   </head>

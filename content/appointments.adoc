@@ -1,10 +1,120 @@
 = Termine
-Jonathan Bullock
+Michael Hitzel
 2023-02-01
 :jbake-type: page
 :jbake-status: published
 :jbake-tags: page, asciidoc
 :idprefix:
 
+[cols="25,15,15,~"]
+|===
+|Datum |Uhrzeit |Treffen |Veranstaltung
 
-Hier kommen die Termine hin
+|13.03.2023			
+|19:30 Uhr
+|
+|Nachbarschaftsprobe mit LPW Kunkel
+
+|20.03.2023			
+|20:00 Uhr
+|
+|Probe Halle Urberach mit Chor
+
+|27.03.2023			
+|20:00 Uhr
+|
+|Probe Halle Urberach mit Chor
+
+|07.04.2023
+|11:30 Uhr
+|11:00 Uhr
+|Andacht zu Karfreitag auf dem Friedhof
+
+|10.04.2023
+|10:00 Uhr
+|09:00 Uhr
+|Gottesdienst zu Ostermontag
+
+|03.04. oder 17.04.2023
+|20:00 Uhr
+|
+|Probe Halle Urberach mit Chor
+
+|22.04.2023
+|Nachmittag	
+|
+|Sonderprobe Chorkonzert
+
+|05.05.2023
+|19:00 Uhr
+|
+|Generalprobe Chorkonzert
+
+|06.05.2023
+|19:00 Uhr	
+|
+|Konzert mit Edelvoices in Urberach
+
+|07.05.2023	
+|17:00 Uhr
+|
+|Konzert mit Edelvoices in Münster
+
+|18.05.2023
+|10:00 Uhr
+|09:15 Uhr
+|Himmelfahrt in der Weidenkirche
+
+|04.06.2023
+|10:00 Uhr
+|09:00 Uhr
+|Gemeindefest, Gottesdienst und Platzkonzert
+
+|11.06.2023
+|10:00 Uhr
+|09:15 Uhr
+|Gottesdienst Weidenkirche
+
+|01.07.2023
+|
+|
+|Jugendposaunentag in Ginsheim
+
+|23.07.2023
+|10:00 Uhr
+|09:15 Uhr
+|Gottesdienst Weidenkirche
+
+|03.09.2023
+|10:00 Uhr
+|09:15 Uhr
+|Gottesdienst Weidenkirche
+
+|01.10.2023
+|10:00 Uhr
+|09:00 Uhr
+|Erntedankgottesdienst
+
+|28.-29.10.2023
+|
+|
+|Probenwochenende
+
+|31.10.2023
+|19:00 Uhr
+|18:30 Uhr
+|Reformationsgottesdienst St. Gallus
+
+|05.11.2023
+|17:00 Uhr
+|15:45 Uhr
+|Reformationskonzert
+|===
+
+
+
+	
+	
+	
+
+

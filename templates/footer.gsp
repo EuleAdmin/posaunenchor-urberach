@@ -4,7 +4,7 @@
     
     <div id="footer">
       <div class="container">
-        <p class="muted credit">&copy; 2023 (<a href="http://jbake.org">JBake ${version})</a></p>
+        <p class="muted credit">&copy; ${new java.text.SimpleDateFormat("yyyy", Locale.GERMAN).format(new Date())} (<a href="http://jbake.org">JBake ${version})</a></p>
       </div>
     </div>
     

@@ -1,8 +1,8 @@
 title=Ein dritter Artikel
-date=2022-09-26
+date=2023-09-26
 type=post
 tags=blog, asciidoc
-status=published
+status=draft
 ~~~~~~
 = Ein dritter Artikel
 Jonathan Bullock
