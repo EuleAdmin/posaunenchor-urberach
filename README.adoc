@@ -1,6 +1,10 @@
 # Posaunenchor-Urberach
 JBake Webseite des Posaunenchor Urberach
 
-Eine kleine Änderung 6
+Das ist der Internetauftritt des Urberacher Posaunenchores.
+
+https://www.posaunenchor-urberach.de
+
+Eine Beschreibung ist unter https://eulon.de/posaunenchor.html zu finden
 
 
