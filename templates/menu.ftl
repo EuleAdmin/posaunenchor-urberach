@@ -1,4 +1,4 @@
-	<!-- Fixed navbar -->
+		<!-- Fixed navbar -->
     <div class="navbar navbar-default navbar-fixed-top" role="navigation" id="topBar">
 
 
@@ -15,24 +15,26 @@
             <span class="icon-bar"></span>
             <span class="icon-bar"></span>
           </button>
-          <a class="navbar-brand" id="mainTitle" href="<%if (content.rootpath) {%>${content.rootpath}<% } else { %>index.html<% }%>">Posaunenchor-Urberach</a>
-          <p><a id="subTitle" href="<%if (content.rootpath) {%>${content.rootpath}<% } else { %>index.html<% }%>">Ev. Petrusgemeinde Urberach</a></p>
+          <a class="navbar-brand" id="mainTitle" href="<#if (content.rootpath)??>${content.rootpath}<#else></#if>index.html">Posaunenchor-Urberach</a>
+          <p><a id="subTitle" href="<#if (content.rootpath)??>${content.rootpath}<#else></#if>index.html">Ev. Petrusgemeinde Urberach</a></p>
         </div>
         <div class="navbar-collapse collapse">
           <ul class="nav navbar-nav">
              <li class="dropdown">
               <a href="#" class="dropdown-toggle" data-toggle="dropdown">Informationen <b class="caret"></b></a>
               <ul class="dropdown-menu">
-                <li><a href="<%if (content.rootpath) {%>${content.rootpath}<% } else { %><% }%>participate.html">Mitmachen</a></li>
-                <li><a href="<%if (content.rootpath) {%>${content.rootpath}<% } else { %><% }%>training.html">Ausbildung</a></li>
+                <li><a href="<#if (content.rootpath)??>${content.rootpath}<#else></#if>participate.html">Mitmachen</a></li>
+                <li><a href="<#if (content.rootpath)??>${content.rootpath}<#else></#if>training.html">Ausbildung</a></li>
                 <li class="divider"></li>
-                <li><a href="<%if (content.rootpath) {%>${content.rootpath}<% } else { %><% }%>history.html">Geschichte</a></li>
+                <li><a href="<#if (content.rootpath)??>${content.rootpath}<#else></#if>history.html">Geschichte</a></li>
+                <li><a href="<#if (content.rootpath)??>${content.rootpath}<#else></#if>archive.html">Archiv</a></li>
               </ul>
             </li>
-            <li><a href="<%if (content.rootpath) {%>${content.rootpath}<% } else { %><% }%>appointments.html">Termine</a></li>
-            <li><a href="<%if (content.rootpath) {%>${content.rootpath}<% } else { %><% }%>contact.html">Kontakt</a></li>
+            <li><a href="<#if (content.rootpath)??>${content.rootpath}<#else></#if>appointments.html">Termine</a></li>
+            <li><a href="<#if (content.rootpath)??>${content.rootpath}<#else></#if>contact.html">Kontakt</a></li>
           </ul>
         </div><!--/.nav-collapse -->
       </div>
     </div>
     <div class="container">
+  
