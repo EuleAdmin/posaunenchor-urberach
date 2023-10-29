@@ -10,23 +10,27 @@ Michael Hitzel
 |===
 |Datum |Uhrzeit (Treffen) |Veranstaltung
 
-|03.09.2023
-|10:00 Uhr (09:15 Uhr)
-|Gottesdienst Weidenkirche
-
-|01.10.2023
-|10:00 Uhr (09:00 Uhr)
-|Erntedankgottesdienst
-
-|28.-29.10.2023
-|
-|Probenwochenende
-
 |31.10.2023
 |19:00 Uhr (18:30 Uhr)
 |Reformationsgottesdienst St. Gallus
 
 |05.11.2023
 |17:00 Uhr (15:45 Uhr)
-|Reformationskonzert
+|Reformationskonzert "Voyage en France" in der Petruskirche
+
+|09.12.2023
+|19:00 Uhr
+|Adventskonzert Blech Pur in der Petruskirche
+
+|10.12.2023
+|17:30 Uhr (17:15 Uhr)
+|Nikolausmarkt Häfnerplatz
+
+|24.12.2023
+|17:00 Uhr (16:30 Uhr)
+|Weihnachtsgottesdienst St. Gallus
+
+|29.12.2023
+|17:30 Uhr (17:00 Uhr)
+|Hirtenweihnacht auf der Bulau
 |===

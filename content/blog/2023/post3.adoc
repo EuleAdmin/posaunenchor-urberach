@@ -1,6 +1,6 @@
 = Konzert des Posaunenchores Urberach 2023
 Christoph Till
-2023-11-05
+2023-10-29
 :jbake-type: post
 :jbake-status: published
 :jbake-tags: blog, asciidoc
