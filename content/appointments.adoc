@@ -10,10 +10,6 @@ Michael Hitzel
 |===
 |Datum |Uhrzeit (Treffen) |Veranstaltung
 
-|05.11.2023
-|17:00 Uhr (15:45 Uhr)
-|Reformationskonzert "Voyage en France" in der Petruskirche entfällt!!!
-
 |09.12.2023
 |19:00 Uhr
 |Adventskonzert Blech Pur in der Petruskirche
@@ -29,4 +25,9 @@ Michael Hitzel
 |29.12.2023
 |17:30 Uhr (17:00 Uhr)
 |Hirtenweihnacht auf der Bulau
+
+|25.02.2024
+|17:00 Uhr (15:45 Uhr)
+|Reformationskonzert "Voyage en France" in der Petruskirche (Nachholtermin)!!!
+
 |===
