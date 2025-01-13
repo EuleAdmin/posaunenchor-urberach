@@ -1,10 +1,16 @@
-= Konzert des Posaunenchores Urberach 2024
+= Alles Gute für das Jahr 2025!
 Michael Hitzel
-:jbake-date: 2024-09-13
+:jbake-date: 2025-01-13
 :jbake-type: post
 :jbake-status: published
 :jbake-tags: blog, asciidoc
 :idprefix:
+
+Vielen Dank für den zahlreichen Besuch bei dem Reformationskonzert 2024 und alles Gute für das Jahr 2025 wünscht der Posaunenchor Urberach!
+
+
+
+
 
 Herzliche Einladung zum Reformationskonzert 2024 am 03.11.2024 um 17 Uhr in der Petruskirche. 
 
