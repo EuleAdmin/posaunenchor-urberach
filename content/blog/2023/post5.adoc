@@ -1,4 +1,4 @@
-= Alles Gute für das Jahr 2025!
+= In 2025 wird der Posaunenchor Urberach 60 Jahre!
 Michael Hitzel
 :jbake-date: 2025-01-13
 :jbake-type: post
@@ -6,18 +6,19 @@ Michael Hitzel
 :jbake-tags: blog, asciidoc
 :idprefix:
 
-Vielen Dank für den zahlreichen Besuch bei dem Reformationskonzert 2024 und alles Gute für das Jahr 2025 wünscht der Posaunenchor Urberach!
+Anlässlich des 60-jährigen Bestehens des Posaunenchores Urberach findet am Vorabend des Gemeindefests, Freitag, dem 27. Juni 2025 um 20 Uhr in der ev. Petruskirche in Urberach ein Konzert mit dem Ensemble „Blech pur“ statt unter dem Motto ‚A Night at the Opera‘. 
+
+image::/image/2024/2025_06_27_Plakat_BlechPur_Konzert_Urberach.jpg[Einladung Konzert 2024, 450]
+
+In dem Ensemble musizieren Posaunenchorleiter und engagierte Blechbläserinnen und Blechbläser aus der Region, zusammengeführt unter dem Dach des Posaunenwerks der EKHN, Bezirk Starkenburg.
+In der diesjährigen Sommertournee begibt sich Blech Pur auf eine musikalische Reise in die Welt der Oper. So stehen Ausschnitte aus Mozart’s Zauberflöte, Bizet’s Carmen, Verdi’s Nabucco oder Gershwin’s Porgy and Bess in raffinierten Arrangements für Blechbläserensemble auf dem Programm. 
+Ergänzt werden die musikalischen Beiträge durch besinnliche und auch heitere Texte und Geschichten. 
+
+Das Konzert findet mit freundlicher Unterstützung der Sparkasse Dieburg und der Johanniter Unfallhilfe statt. Vielen Dank!
+
+Das Publikum erwartet damit ein abwechslungsreiches und kurzweiliges Konzerterlebnis aus der strahlenden Welt der Blechbläser. Der Eintritt zu dieser Veranstaltung ist frei, um eine Spende am Ausgang wird gebeten. In der Pause besteht eine Möglichkeit für einen Imbiss und Getränke.
 
 
 
 
-
-Herzliche Einladung zum Reformationskonzert 2024 am 03.11.2024 um 17 Uhr in der Petruskirche. 
-
-image::/image/2024/Reformationskonzert 2024.jpg[Einladung Konzert 2024, 450]
-
-Der Posaunenchor lädt ein zu einer musikalischen Reise durch Europa. 
-Nach dem Start in Frankreich führt der Reigen duch Holland, Britannien, die Alpenländer und den Balkan. 
-Wie gewohnt durchquert der Posaunenchor nicht nur den Kontinent, sondern auch Musikstile von alt bis aktuell.
-Zu dem gut einstündigen Konzert ist der Eintritt frei, um Spenden wird gebeten.
 
