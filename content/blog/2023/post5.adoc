@@ -1,6 +1,6 @@
 = In 2025 wird der Posaunenchor Urberach 60 Jahre!
 Michael Hitzel
-:jbake-date: 2025-01-13
+:jbake-date: 2025-03-30
 :jbake-type: post
 :jbake-status: published
 :jbake-tags: blog, asciidoc
@@ -8,15 +8,17 @@ Michael Hitzel
 
 Anlässlich des 60-jährigen Bestehens des Posaunenchores Urberach findet am Vorabend des Gemeindefests, Freitag, dem 27. Juni 2025 um 20 Uhr in der ev. Petruskirche in Urberach ein Konzert mit dem Ensemble „Blech pur“ statt unter dem Motto ‚A Night at the Opera‘. 
 
-image::/image/2024/2025_06_27_Plakat_BlechPur_Konzert_Urberach.jpg[Einladung Konzert 2024, 450]
+image::/image/2024/2025_06_27_Plakat_BlechPur_Konzert_Urberach.jpg[Einladung Konzert Blech Pur 2025, 450]
 
 In dem Ensemble musizieren Posaunenchorleiter und engagierte Blechbläserinnen und Blechbläser aus der Region, zusammengeführt unter dem Dach des Posaunenwerks der EKHN, Bezirk Starkenburg.
 In der diesjährigen Sommertournee begibt sich Blech Pur auf eine musikalische Reise in die Welt der Oper. So stehen Ausschnitte aus Mozart’s Zauberflöte, Bizet’s Carmen, Verdi’s Nabucco oder Gershwin’s Porgy and Bess in raffinierten Arrangements für Blechbläserensemble auf dem Programm. 
 Ergänzt werden die musikalischen Beiträge durch besinnliche und auch heitere Texte und Geschichten. 
 
-Das Konzert findet mit freundlicher Unterstützung der Sparkasse Dieburg und der Johanniter Unfallhilfe statt. Vielen Dank!
+Das Konzert findet mit freundlicher Unterstützung der Sparkasse Dieburg, der Firma Kreis Haus- und Gebäudetechnik und der Johanniter Unfallhilfe statt. Vielen Dank!
 
 Das Publikum erwartet damit ein abwechslungsreiches und kurzweiliges Konzerterlebnis aus der strahlenden Welt der Blechbläser. Der Eintritt zu dieser Veranstaltung ist frei, um eine Spende am Ausgang wird gebeten. In der Pause besteht eine Möglichkeit für einen Imbiss und Getränke.
+
+
 
 
 
