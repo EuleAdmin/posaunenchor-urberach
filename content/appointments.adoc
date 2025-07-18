@@ -11,14 +11,6 @@ Michael Hitzel
 |Datum |Uhrzeit (Treffen) |Veranstaltung
 
 
-|27.06.2025
-|20:00 Uhr
-|Blech Pur Konzert anlässlich des 60. Jubiläums des Posaunenchores Urbearch
-
-|28.06.2025
-|19:00 Uhr
-|Gemeindefest mit Festgottesdienst anlässlich des 60. Jubiläums des Posaunenchores Urberach
-
 |10.08.2025
 |10:00 Uhr (09:00 Uhr)
 |Sommerkirche in Urberach
@@ -47,10 +39,12 @@ Michael Hitzel
 |20:00 Uhr (?)
 |Konzert 'Kerzenhelle wird die Nacht' (Teilnahme angefragt)
 
-|24.12.2024
+|24.12.2025
 |17:00 Uhr (16:30 Uhr)
 |Gottesdienst zu Heiligabend St. Gallus
 
-
+|28.12.2025
+|17:00 Uhr (16:30 Uhr)
+|Ökumenische Weihancht unter den Sternen auf der Bulau
 
 |===
